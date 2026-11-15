@@ -13,4 +13,6 @@ Output
    simple interest = (p * t * r) / 100
 ```
 
+The rate of interest is entered as an annual percentage.
+
 _© 2022 XYZ, Inc._
